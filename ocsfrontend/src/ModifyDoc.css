@@ -1,0 +1,10 @@
+.add-doctor{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: antiquewhite;
+    background-image: url("./pxfuel.jpg");
+    background-size: contain;
+    background-repeat: repeat-y;
+    background-blend-mode: multiply;
+}
